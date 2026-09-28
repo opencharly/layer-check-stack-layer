@@ -1,7 +1,5 @@
-version: 2026.240.1943
 check-stack-layer:
     candy:
-        version: 2026.209.1500
         description: |
             Combined kind:layer + kind:pod + deploy-target smoke on top of check-base-layer
             The second (and final) layer of the check-pod stack. In one layer it
